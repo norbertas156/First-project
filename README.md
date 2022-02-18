@@ -12,7 +12,7 @@ Uždavinys buvo realizuotas dviem metodais, kai studento duomenys buvo saugomi m
 Programa buvo realizuota VS Code platformoje, todėl paleidimas yra toks:
 1. Pirmiausia atsisiunčiamas failas(-ai) su Library.h failu
 2. Tada komandinė eilutėje suvedama
-2.1 g++ masyvai.cpp -o masyvai   // jei paleidžiamas failas masyvai.cpp
-    g++ vektoriai.cpp vektoriai  // jei paleidžiamas failas vektoriai.cpp
-2.2 Tuomet paleisti failą įvedame ./masyvai   // masyvai.cpp faile
-                                  ./vektoriai // vektoriai.cpp faile
+3. g++ masyvai.cpp -o masyvai   // jei paleidžiamas failas masyvai.cpp
+4. g++ vektoriai.cpp vektoriai  // jei paleidžiamas failas vektoriai.cpp
+5. Tuomet paleisti failą įvedame ./masyvai   // masyvai.cpp faile
+6. ./vektoriai // vektoriai.cpp faile
