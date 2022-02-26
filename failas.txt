@@ -1,9 +1,0 @@
-Vardas                   Pavarde                    ND1       ND2       ND3       ND4       ND5       ND6       ND7       ND8       ND9      ND10      ND11      ND12      ND13      ND14      ND15      Egz.
-Vardenis                Pavardenis                    8         5         8         3         3         7         3        10         2         3         7         5         6         3         5         3
-Jonas                   Jonaitis                      6         6         5         5         1         8         4         3         3         8         5         4         5         5         5         7
-Petras                  Petraitis                     5         4         9         5         2         5         3         6         9         7        10         9        10         9         8         7
-Arunas                  Arunaitis                     4         7         6         4         8         7         6         5         4        10         2         8         1         6         4         7
-Svetlana                Grazulyte 		      4        10         2         3         3         4         2         3         3        10         2         8         2         1         9         6
-Erikas                  Kasauskas                     7         9        10         2         9         7         9         6         5         7         4         3         5         4         2         3
-Algirde                 Masiulyte		     10         7         4         9         1         3        10         7        10         2         6         9         5         3         1         1
-Arvydas                 Sabonis			      5        10         5         2         7         5         4         7         2         2        10         9         8         3         1         4
