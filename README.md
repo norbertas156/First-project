@@ -23,3 +23,8 @@ Programa buvo realizuota VS Code platformoje, todėl paleidimas yra toks:
 ## Objektionio programavimo v0.3 uždutis
 1. Failų prototipai ir funkcijos išskaidytos į atskirus failus
 2. Implementuotas Exception Handling
+## Objektinio programavimo v0.4 užduotis
+1. Implementuota galimybė sugeneruoti studentų failus
+2. Implementuotas studentų išskirtymas į kietekus ir nelaiminguosius
+3. Idiegta laiko matavimai programos veikimui apskaičiuoti
+4. Prie failų įkeltos nuotraukos, kaip programa veikia skirtingai nuo studentų skaičiaus
